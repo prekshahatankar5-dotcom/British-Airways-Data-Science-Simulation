@@ -43,7 +43,7 @@ Key steps included:
 - Seaborn
 - Scikit-learn
 - Google Colab
-- Jupyter Notebook
+  
 
 ## 📁 Files
 
